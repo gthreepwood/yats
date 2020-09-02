@@ -1,4 +1,4 @@
-Django==1.11.14
+Django==1.11.29
 diff-match-patch
 Markdown>2.2.0
 six
